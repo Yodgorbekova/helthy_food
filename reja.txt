@@ -1,0 +1,6 @@
+  1.Yangi papka ochish va github ulab qoyish.
+ 2. Figam saytini icida ozimzga kerak boladigan rasmlarni yaxshi korinishda yuklanb olish (png(orqasida 
+tasvir soya korinish yoq) va  jpg(orqasida fon bor orqa tomndan ham kora lamz yoki orqasida begraunti bor))
+ 3.Bootstrap kutubxonasini ulab qoyish kerak agar foydalansa.
+4. Geogle fondini ulab qoyish.
+5.  reja asosida loyhani ishlash
